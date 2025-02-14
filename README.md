@@ -1,2 +1,2 @@
 # deepseek
-用C++实现deepseek
+用C++简单实现deepseek
