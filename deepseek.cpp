@@ -3,7 +3,7 @@ using namespace std;
 int main(void)
 {
 	string s;
-	cout << "ÇëÊäÈëÄãµÄÎÊÌâ£º" << endl;
+	cout << "è¯·è¾“å…¥ä½ çš„é—®é¢˜ï¼š" << endl;
 	cin >> s;
 	cout << "Tinking";
 	for (int i = 0;i < 3;i++)
@@ -16,6 +16,6 @@ int main(void)
 		}
 	}
 	cout << endl;
-	cout << "·þÎñÆ÷·±Ã¦£¬ÇëÉÔºóÔÙÊÔ¡£" << endl;
+	cout << "æœåŠ¡å™¨ç¹å¿™ï¼Œè¯·ç¨åŽé‡è¯•ã€‚" << endl;
 	return 0;
 }
